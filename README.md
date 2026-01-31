@@ -10,8 +10,8 @@
 - Other OSS projects
 
 ## 🛠️ Technologies I work with:
-- Languages: Rust,Javascript,C,C++,Solidity
-- Web Development: HTML, CSS, Javascript, Reactjs
+- Languages: Rust,JavaScript,C,C++,Solidity
+- Web Development: HTML, CSS, Javascript, React
 - Git & GitHub
 - Blockchain & Web3: Exploring blockchain technologies
 
@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rishabh-yadav-41196a2b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-yadav-41196a2b6" height="30" width="40" /></a>
-<a href="https:instagram.com/ii_rishabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ii_rishbah" height="30" width="40" /></a>
+<a href="https://instagram.com/ii_rishabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ii_rishbah" height="30" width="40" /></a>
 </p>
 
 

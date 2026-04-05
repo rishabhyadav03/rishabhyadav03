@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Yadav</h1>
-<h3 align="center">Developer interested in Blockchain and Cryptography
-Learning AI/ML</h3>
+<h3 align="center">Developer interested in Blockchain and Cryptography</h3>
 
 - 📫 How to reach me **rishabhyadavv03@gmail.com**
 
